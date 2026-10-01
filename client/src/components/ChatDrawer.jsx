@@ -7,6 +7,7 @@ const quickQuestions = [
   "Tell me about placements",
   "What is the fee structure?",
   "How to apply for admissions?",
+  "What is about this application",
 ];
 
 export default function ChatDrawer({ open, onClose }) {
